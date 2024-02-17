@@ -1,3 +1,1 @@
-#FORMAT!
-
-Name | Roll No. | Public IP
+Rishang Yadav | B23173 | 14.139.34.151
